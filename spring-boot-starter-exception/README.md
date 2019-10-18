@@ -33,7 +33,8 @@ spring.mail.properties.mail.smtp.ssl.enable=true
 # 告警通知 多个以逗号分隔
 exception.notice.mail.from=ming745077881@qq.com
 exception.notice.mail.to=zhumingming@eshippinggateway.com
-exception.notice.enable=true
+exception.notice.enable=true  #true表示开启
+exception.notice.excludeExceptions=       #需要排除的异常
 ```
 
 #### 用法
