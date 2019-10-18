@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.zmm.exception.config.ExceptionNoticeAutoConfiguration
